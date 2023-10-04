@@ -1,4 +1,4 @@
-# Staking NFTs with ERC20 Rewards - Project README
+# Staking NFTs with ERC20 Rewards
 
 ![Project Screenshot](screenshot1.png)
 ![Project Screenshot](screenshot2.png)
